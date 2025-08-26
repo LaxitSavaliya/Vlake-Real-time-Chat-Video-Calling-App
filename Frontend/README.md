@@ -90,8 +90,6 @@ Frontend/
 ```bash
 cd Frontend
 npm install
-# or
-yarn install
 ```
 
 ## Environment Variables
@@ -107,22 +105,10 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ```bash
 # Development
 npm run dev
-
-# Production build
-npm run build
-
-# Preview production build
-npm run preview
-
-# Lint
-npm run lint
 ```
 
 ## Scripts
 
 - `dev`: Start development server
-- `build`: Build for production
-- `preview`: Preview production build
-- `lint`: Run ESLint
 
 ---
