@@ -80,9 +80,6 @@ JWT_SECRET=your_jwt_secret
 # Development (with auto-reload)
 npm run dev
 
-# Production
-npm start
-```
 
 ## Tech Stack
 
