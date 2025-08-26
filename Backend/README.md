@@ -57,8 +57,6 @@ Backend/
 ```bash
 cd Backend
 npm install
-# or
-yarn install
 ```
 
 ## Environment Variables
