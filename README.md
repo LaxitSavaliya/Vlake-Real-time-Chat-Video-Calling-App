@@ -114,7 +114,6 @@ VITE_STREAM_API_KEY=your_stream_api_key
 ```bash
 cd Backend
 npm run dev   # Development
-npm start     # Production
 ```
 
 ### Frontend
@@ -122,8 +121,6 @@ npm start     # Production
 ```bash
 cd Frontend
 npm run dev   # Development
-npm run build # Production build
-npm run preview # Preview production build
 ```
 
 ## API Endpoints
