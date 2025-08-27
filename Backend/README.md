@@ -64,7 +64,7 @@ npm install
 Create a `.env` file in the `Backend` directory. Example:
 
 ```dotenv
-PORT=5000
+PORT=4040
 CORS_ORIGIN=http://localhost:5173
 STREAM_API_KEY=your_stream_api_key
 STREAM_API_SECRET=your_stream_api_secret
